@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;700&display=swap');
+
+.sidebarContainer{
+    background-color: purple;
+    min-height: 100vh;
+    color: #fff;
+}
+.heading{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size:26px;
+    text-align:center;
+    text-transform:uppercase;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+.inputFields input{
+    /* margin: 5px 15px; */
+    color: #000;
+    font-size:16px;
+}
+
+.inputFields input:focus-visible{
+    outline: none;
+}
