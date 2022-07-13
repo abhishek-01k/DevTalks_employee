@@ -1,6 +1,11 @@
-<<<<<<< HEAD
 # TripManiac
-=======
+
+Question ID - 2.B   
+Challange Description:
+Design a basic web app or react native app, In which you have to implement sorting and filter options, for data you can use any third-party API’s
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> master
